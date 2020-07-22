@@ -1,8 +1,8 @@
-pandas as pd
-numpy as np
-json
+pandas
+numpy
 more_itertools
 requests
-urllib
+urllib3
 ftfy
 spacy
+xlrd
