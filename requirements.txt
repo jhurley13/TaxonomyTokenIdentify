@@ -1,0 +1,8 @@
+pandas as pd
+numpy as np
+json
+more_itertools
+requests
+urllib
+ftfy
+spacy
